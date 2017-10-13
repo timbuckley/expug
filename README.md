@@ -1,15 +1,10 @@
-<img src="https://cdn.rawgit.com/pugjs/pug-logo/eec436cee8fd9d1726d7839cbe99d1f694692c0c/SVG/pug-final-logo-_-colour-128.svg" align="right" height="175" width="218">
-
 # Expug
 
 > Indented shorthand HTML templates for Elixir
 
-<p><iframe src="https://ghbtns.com/github-btn.html?user=rstacruz&repo=expug&type=star&count=true&size=large" frameborder="0" scrolling="0" width="180px" height="30px"></iframe></p>
-
 Expug is a template language based on [Pug][] (formerly known as [Jade][]).
 It lets you write HTML as indented shorthand, inspired by Haml, Slim, Pug/Jade, and so on.
 
-<iframe src='https://try-expug.herokuapp.com/try?code=doctype%20html%0Ahtml%0A%20%20head%0A%20%20%20%20meta(charset%3D%22utf-8%22)%0A%20%20%20%20title%20Hello%0A%20%20body%0A%20%20%20%20a.button(href%3D%40link)%0A%20%20%20%20%20%20%7C%20This%20is%20a%20link' height='400' width='100%' style='border: 0'></iframe>
 
 ```jade
 doctype html
@@ -65,5 +60,3 @@ Authored and maintained by Rico Sta. Cruz with help from contributors ([list][co
 
 [MIT]: http://mit-license.org/
 [contributors]: http://github.com/rstacruz/expug/contributors
-
-<p><iframe src="https://ghbtns.com/github-btn.html?user=rstacruz&type=follow&count=true" frameborder="0" scrolling="0" width="170px" height="20px"></iframe></p>
